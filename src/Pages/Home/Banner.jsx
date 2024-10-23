@@ -49,10 +49,10 @@ const Banner = () => {
       </div> */}
 
       <div
-        className="w-full  bg-black bg-opacity-50 !h-[800px] bg-cover bg-center"
+        className="w-full  bg-black bg-opacity-30 !h-[800px] bg-cover bg-center"
         style={{ backgroundImage: `url(${img1})` }}
       >
-        <div className="bg-black bg-opacity-50 px-10 w-full !h-[800px] flex align-start items-center ">
+        <div className="bg-black bg-opacity-30 px-10 w-full !h-[800px] flex align-start items-center ">
           <div className="max-w-screen-xl mx-auto w-full">
             <h1 className="text-7xl text-white text-left font-medium font-Cormorant ">
               <span className="italic font-Cormorant font-medium">Welcome</span> to <br />{" "}

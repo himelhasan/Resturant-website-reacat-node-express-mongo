@@ -1,3 +1,4 @@
+import FullWidthTitleSection from "../../../Components/Shared/FullWidthTitleSection";
 import SectionTitle from "../../../Components/Shared/SectionTitle";
 import Banner from "../Banner";
 import CategorySlider from "../Category/CategorySlider";
@@ -6,7 +7,7 @@ const Home = () => {
   return (
     <>
       <Banner />
-      <div className="-mt-60 p-8 max-w-screen-xl mx-auto bg-white">
+      <div className="lg:-mt-60 -mt-44 lg:mx-auto mx-6 lg:p-8  py-8 max-w-screen-xl  bg-white">
         <div className="flex">
           <div className="w-4/6">
             <CategorySlider />
@@ -26,7 +27,18 @@ const Home = () => {
           title={"Popular Items"}
           subTitle={"See what people are buying"}
         ></SectionTitle>
-        <PopularMenu />
+        <PopularMenu isBox={true} itemsInRow={"4"} filter={"popular"} />
+      </div>
+
+      <FullWidthTitleSection
+        title={"À la Carte"}
+        subTitle={"Discover the full menu"}
+        img={
+          "https://patiotime.loftocean.com/wp-content/uploads/2022/03/bas-peperzak-XNNurImW1xM-unsplash.jpg"
+        }
+      />
+      <div className="lg:-mt-60 -mt-44 lg:mx-auto mx-6 lg:p-8  py-8 max-w-screen-xl  bg-white">
+        <PopularMenu isBox={false} itemsInRow={"2"} filter={"pizza"} />
       </div>
     </>
   );

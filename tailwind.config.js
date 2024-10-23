@@ -10,6 +10,7 @@ export default {
     extend: {
       colors: {
         brand: "#dd5903",
+        brandBorder: "rgba(0, 0, 0, 0.1)",
       },
     },
   },

@@ -20,9 +20,9 @@ const CategorySlider = () => {
         slidesPerView={
           window.innerWidth <= 400
             ? 2
-            : window.innerWidth <= 820
+            : window.innerWidth <= 1080
             ? 2
-            : window.innerWidth > 820
+            : window.innerWidth > 1080
             ? 3
             : 0
         }
