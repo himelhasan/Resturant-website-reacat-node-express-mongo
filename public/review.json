@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Emma Johnson",
+    "title": "Food Blogger",
+    "review": "Every bite was a revelation! The flavors here are unmatched, and the atmosphere is perfect for any occasion.",
+    "image": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?w=150&h=150"
+  },
+  {
+    "id": 2,
+    "name": "Mike Anderson",
+    "title": "Travel Enthusiast",
+    "review": "An absolute gem! The fusion dishes are something you won’t find anywhere else. A must-visit spot!",
+    "image": "https://images.unsplash.com/photo-1520974813361-6d90a6a86d65?w=150&h=150"
+  },
+  {
+    "id": 3,
+    "name": "Sarah Collins",
+    "title": "Chef",
+    "review": "As a chef, I'm always looking for quality, and this restaurant exceeded my expectations. Stunning presentation and taste!",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150"
+  },
+  {
+    "id": 4,
+    "name": "James Harrison",
+    "title": "Local Guide",
+    "review": "Easily one of the best restaurants in town! The service is impeccable, and the food is fresh and delicious.",
+    "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=150&h=150"
+  },
+  {
+    "id": 5,
+    "name": "Laura Martin",
+    "title": "Food Critic",
+    "review": "Perfect ambiance with a menu that brings out the best in seasonal ingredients. Highly recommend!",
+    "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?w=150&h=150"
+  },
+  {
+    "id": 6,
+    "name": "Daniel Wright",
+    "title": "Photographer",
+    "review": "The food here is not only delicious but Instagram-worthy! Presentation and flavor on point.",
+    "image": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?w=150&h=150"
+  },
+  {
+    "id": 7,
+    "name": "Chloe Baker",
+    "title": "Business Consultant",
+    "review": "Great place for both casual and business meetings. The food is top-notch, and the staff is attentive.",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150"
+  },
+  {
+    "id": 8,
+    "name": "Ryan Stewart",
+    "title": "Artist",
+    "review": "A culinary experience like no other. The flavors are bold and creative. I can’t wait to come back!",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&h=150"
+  },
+  {
+    "id": 9,
+    "name": "Natalie Lee",
+    "title": "Fitness Trainer",
+    "review": "Loved the healthy options on the menu! Tasty, nutritious, and beautifully presented.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150"
+  },
+  {
+    "id": 10,
+    "name": "Tom Evans",
+    "title": "Freelance Writer",
+    "review": "The perfect spot to unwind with incredible food and a relaxed vibe. Absolutely worth every penny.",
+    "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=150&h=150"
+  },
+  {
+    "id": 11,
+    "name": "Olivia Scott",
+    "title": "Fashion Designer",
+    "review": "Beautiful decor, friendly staff, and the dishes were like art on a plate. Highly recommend!",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150"
+  },
+  {
+    "id": 12,
+    "name": "Sam Brooks",
+    "title": "Software Engineer",
+    "review": "This restaurant has quickly become my go-to. Fantastic food and atmosphere, I’m always impressed.",
+    "image": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=150&h=150"
+  },
+  {
+    "id": 13,
+    "name": "Julia Perez",
+    "title": "Food Enthusiast",
+    "review": "An amazing place to explore new flavors. The staff really knows how to make you feel at home.",
+    "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=150&h=150"
+  },
+  {
+    "id": 14,
+    "name": "Chris Morales",
+    "title": "Real Estate Agent",
+    "review": "Fantastic service, delicious food, and great ambiance. Perfect for family dinners or dates!",
+    "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&h=150"
+  },
+  {
+    "id": 15,
+    "name": "Linda Taylor",
+    "title": "Yoga Instructor",
+    "review": "The attention to detail in every dish is impressive. It’s clear the chefs have a true passion for food.",
+    "image": "https://images.unsplash.com/photo-1554151228-14d9def656e4?w=150&h=150"
+  },
+  {
+    "id": 16,
+    "name": "Brian Hughes",
+    "title": "Lawyer",
+    "review": "A premium dining experience. The dishes are worth every penny, and the service is impeccable.",
+    "image": "https://images.unsplash.com/photo-1520077074905-4bbf64b6bc1f?w=150&h=150"
+  },
+  {
+    "id": 17,
+    "name": "Rachel Adams",
+    "title": "Interior Designer",
+    "review": "Love the decor and ambiance! The food is as beautiful as it is delicious. Will be back soon!",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=150&h=150"
+  },
+  {
+    "id": 18,
+    "name": "Jack Turner",
+    "title": "Architect",
+    "review": "A fantastic fusion of modern and classic flavors. I highly recommend trying the chef’s special.",
+    "image": "https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?w=150&h=150"
+  },
+  {
+    "id": 19,
+    "name": "Claire Ramirez",
+    "title": "Marketing Specialist",
+    "review": "The vibe here is unmatched, and the food is even better. Perfect place for a night out with friends!",
+    "image": "https://images.unsplash.com/photo-1531384698653-00a55f1f3f85?w=150&h=150"
+  },
+  {
+    "id": 20,
+    "name": "Kyle Walker",
+    "title": "Fitness Coach",
+    "review": "Amazing taste and healthy options. It’s a great place to enjoy delicious meals without the guilt!",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150"
+  }
+]

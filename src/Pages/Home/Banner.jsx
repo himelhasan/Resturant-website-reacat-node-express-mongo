@@ -49,16 +49,16 @@ const Banner = () => {
       </div> */}
 
       <div
-        className="w-full  bg-black bg-opacity-30 !h-[800px] bg-cover bg-center"
+        className="w-full  bg-black bg-opacity-30 !h-[600px] md:!h-[800px] bg-cover bg-center"
         style={{ backgroundImage: `url(${img1})` }}
       >
-        <div className="bg-black bg-opacity-30 px-10 w-full !h-[800px] flex align-start items-center ">
-          <div className="max-w-screen-xl mx-auto w-full">
-            <h1 className="text-7xl text-white text-left font-medium font-Cormorant ">
+        <div className="bg-black bg-opacity-30 px-6 md:px-10 w-full !h-[600px] md:!h-[800px] flex align-start items-center ">
+          <div className="max-w-screen-xl mx-auto w-full p-4">
+            <h1 className="text-3xl md:text-7xl text-white text-left font-medium font-Cormorant ">
               <span className="italic font-Cormorant font-medium">Welcome</span> to <br />{" "}
               <span className="font-Cormorant font-bold">PatioTime </span>Restaurant
             </h1>
-            <p className="text-white text-2xl w-4/6">
+            <p className="text-white text-lg md:text-xl leading-tight w-full  md:w-4/6 pt-4">
               We serve food, harmony, and laughter. Making delicious food and providing a
               wonderful eating experience since 1998.
             </p>

@@ -21,7 +21,7 @@ const PopularMenu = ({ isBox, itemsInRow, filter }) => {
   return (
     <>
       <div
-        className={`grid ${
+        className={`  grid ${
           gridColumnsClass[itemsInRow] || "lg:grid-cols-1"
         } md:grid-cols-2 lg:gap-x-20 lg:gap-y-8 lg:px-10 mx-auto lg:gap-6 gap-2 gap-y-6 px-4 `}
       >
